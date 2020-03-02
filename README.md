@@ -27,3 +27,8 @@ I ran the webpage through some free accessability and seo tests that i found onl
 * https://www.seobility.net/en/seocheck/
 * https://neilpatel.com/seo-analyzer/
 
+## Last thing! :clock1:
+This was my first time writing a README. I found some good resources online that i included below. 
+* https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+* https://gist.github.com/rxaviers/7360908
+* https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3
