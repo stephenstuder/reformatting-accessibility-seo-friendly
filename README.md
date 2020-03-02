@@ -12,7 +12,7 @@ Ensure that all links are functioning correctly and clean up the CSS to make it 
 * Moved the large image from css to html using an img tag for better code readability
 * Fixed a broken menu scroll by adding a missing id to the associated content
 * Added meta description and viewport for SEO purposes, also added a descriptive title
-* Renamed css classes to describe what they with the next programmer in mind
+* Renamed css classes to describe what they do with the next programmer in mind
 * I read that rem is more accessible than px for fonts so i converted all font-sizes to rem. 
 
 ## Stylistic Changes :art:
@@ -29,7 +29,7 @@ I ran the webpage through some free accessability and seo tests that i found onl
 * https://neilpatel.com/seo-analyzer/
 
 ## Last thing! :clock1:
-This was my first time writing a README. I found some good resources online that i included below. 
+This was my first time writing a README. I found some good resources online for adding cool stuff to README's that i included below. 
 * https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
 * https://gist.github.com/rxaviers/7360908
 * https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3
