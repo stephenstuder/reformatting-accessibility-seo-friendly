@@ -1,7 +1,11 @@
+/* Global CSS */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+}
+html {
+    scroll-behavior: smooth;
 }
 
 body {
@@ -50,6 +54,8 @@ p {
     font-size: 16px;
 }
 
+/* Class based CSS */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -75,9 +81,9 @@ p {
 
 .benefits-container {
     margin-right: 20px;
-    padding: 20px;
+    padding: 50px;
     float: right;
-    width: 20%;
+    width: 22%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
