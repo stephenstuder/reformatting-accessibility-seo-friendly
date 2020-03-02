@@ -13,6 +13,7 @@ Ensure that all links are functioning correctly and clean up the CSS to make it 
 * Fixed a broken menu scroll by adding a missing id to the associated content
 * Added meta description and viewport for SEO purposes, also added a descriptive title
 * Renamed css classes to describe what they with the next programmer in mind
+* I read that rem is more accessible than px for fonts so i converted all font-sizes to rem. 
 
 ## Stylistic Changes :art:
 * Made the padding consistent for the content areas. The services area had 50px and the benefits area had 20px. I upped benefits to 50px to be more consistent

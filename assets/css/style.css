@@ -6,6 +6,7 @@
 }
 html {
     scroll-behavior: smooth;
+    font-size: 100%;
 }
 
 body {
@@ -21,7 +22,7 @@ header {
 
 header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 3rem;
 }
 
 header h1 .seo {
@@ -33,7 +34,7 @@ header div {
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 1.25rem;
 }
 
 header div ul {
@@ -51,7 +52,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 /* Class based CSS */
@@ -119,7 +120,7 @@ p {
 
 .service h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 2.25rem;
 }
 
 .footer {
@@ -130,5 +131,5 @@ p {
 }
 
 .footer h2 {
-    font-size: 20px;
+    font-size: 1.25rem;
 }
