@@ -19,7 +19,7 @@ Ensure that all links are functioning correctly and clean up the CSS to make it 
 * Increased the width of the benefits section to get a consistent gap between the content
 
 ## Screenshot :camera:
-<img src="./assets/images/screenshot-of-page.PNG" alt="screenshot of webpage" width="200"/>
+<img src="./assets/images/screenshot-of-page.PNG" alt="screenshot of webpage" width="500"/>
 
 ## Testing :pencil:
 I ran the webpage through some free accessability and seo tests that i found online that aided me in what to change. After my changes the webpage was able to recieve passing scores in each test. Here are some of the tests i used.
